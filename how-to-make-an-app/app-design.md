@@ -7,5 +7,5 @@ By clicking on the **Design,** there you can setup your app design. You can setu
 * **List design** - set up the list design
 * **Side menu colors** - choose the color for your side menu
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
