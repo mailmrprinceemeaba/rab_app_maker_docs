@@ -13,7 +13,7 @@ By clicking on the icon, a new window will appear, where you can add your conten
 
 Clicking on the "**Folder**" icon will open the categories screen for that section. 
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 By clicking on the icon, a new window will appear, where you can add your categories.
 

@@ -13,7 +13,7 @@ And yes, this is possible but requires small manual work.
 
 You should already have added a radio station, you have learned that in "Section content".
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Go in that that radio station, that you want to open/start when app starts.
 
@@ -27,7 +27,7 @@ Copy that number.
 
 Now go to Setting of the radio station. 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 There you will see "**ObjectIdToShow**"
 
@@ -35,5 +35,5 @@ Enter the copied number there.  Now your station will start directly.
 
 Note that this can be applied to every section. you can manually add the o**bjectIdToShow** key.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
