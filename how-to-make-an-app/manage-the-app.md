@@ -15,7 +15,7 @@ By clicking on Add section you can add the additional section that you need. You
 
 When you click on the section it should appear an alert that says that new section in successfully added, just like at the picture below.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 **Section settings**
 
@@ -25,7 +25,7 @@ By clicking on the gear icon in the section, this is the settings icon, it will 
 
 When you click on the icon it should open a view like this one in the picture below.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Here you can change: 
 
