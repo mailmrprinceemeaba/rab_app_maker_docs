@@ -2,5 +2,5 @@
 description: App ceator docs.
 ---
 
-# DFY Apps Documentation
+# Learn how to create mobile apps
 
