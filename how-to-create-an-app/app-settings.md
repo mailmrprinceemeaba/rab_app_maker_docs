@@ -1,6 +1,6 @@
 # App Settings
 
-By clicking on the **App settings**, will bring you to your App settings and there you have options to preview the individual settings you want. Click on the sub menu below and change the option you want.
+By clicking on the **App settings**, you'll see your App settings and there you have options to preview the individual settings you want. Click on the sub menu below and change the option you want.
 
 ### Logins <a id="logins"></a>
 
@@ -20,7 +20,9 @@ First, you should make your facebook app id.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LrupYYzVe_rJk5v1KU7%2F-LrwvHv4XC1lAbJzkPyO%2F-Lrx-__GvoSCGHWxEmgZ%2FoBsB8Yc0zqXBivbVInLcnTb55r8poAJXA9cmmUkh.png?alt=media&token=a038ac61-e85a-444c-8940-02e850960444)
 
-- For Android in the Key Hashes just add **rRW++LUjmZZ+58EbN5DVhGAnkX4=** , look at the picture below.![](https://gblobscdn.gitbook.com/assets%2F-LrupYYzVe_rJk5v1KU7%2F-LrwvHv4XC1lAbJzkPyO%2F-Lrx-k6oa6I0aj68wvKl%2FoKWAoj58by3kbf7AYydhEcv8z0bYCIXHB3Jn7PBw.png?alt=media&token=c1152ab7-8605-45d4-87f2-49c716176acc)
+- For Android in the Key Hashes just add **rRW++LUjmZZ+58EbN5DVhGAnkX4=** , look at the picture below.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LrupYYzVe_rJk5v1KU7%2F-LrwvHv4XC1lAbJzkPyO%2F-Lrx-k6oa6I0aj68wvKl%2FoKWAoj58by3kbf7AYydhEcv8z0bYCIXHB3Jn7PBw.png?alt=media&token=c1152ab7-8605-45d4-87f2-49c716176acc)
 
 - On the top of [https://developers.facebook.com/apps](https://developers.facebook.com/apps) you should see your **APP ID**, copy the id and set it to the facebookID field in your React App Builder.
 
@@ -33,14 +35,14 @@ First, you should make your google ids.
 * Create an app for your project if you haven't already.
 * Once that's done, click "Create Credentials" and then "OAuth client ID." You will be prompted to set the product name on the consent screen, go ahead and do that.
 
-Create an iOS OAuth Client ID
+**Create an iOS OAuth Client ID**
 
 * Select "iOS Application" as the Application Type. Give it a name if you want \(e.g. "iOS Development"\).
 * Use host.exp.exponent as the bundle identifier.
 * Click "Create"
 * You will now see a modal with the client ID.
 
-Create an Android OAuth Client ID
+**Create an Android OAuth Client ID**
 
 * Select "Android Application" as the Application Type. Give it a name if you want \(maybe "Android Development"\).
 * Run openssl rand -base64 32 \| openssl sha1 -c in your terminal, it will output a string that looks like A1:B2:C3 but longer. Copy the output to your clipboard.
