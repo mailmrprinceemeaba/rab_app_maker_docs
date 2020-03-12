@@ -2,15 +2,15 @@
 
 * [Learn how to create mobile apps](README.md)
 
-## HOW TO MAKE AN APP
+## HOW TO CREATE AN APP <a id="undefined"></a>
 
-* [Create apps in the app builder](how-to-make-an-app/create-apps-in-the-app-builder.md)
-* [Manage the app](how-to-make-an-app/manage-the-app.md)
-* [Section content](how-to-make-an-app/section-content.md)
-* [App design](how-to-make-an-app/app-design.md)
-* [Radio App Setup](how-to-make-an-app/radio-app-setup.md)
-* [Shopify App](how-to-make-an-app/shopify-app.md)
-* [App Settings](how-to-make-an-app/app-settings.md)
+* [Create apps in the app builder](undefined/create-apps-in-the-app-builder.md)
+* [Manage the app](undefined/manage-the-app.md)
+* [Section content](undefined/section-content.md)
+* [App design](undefined/app-design.md)
+* [Radio App Setup](undefined/radio-app-setup.md)
+* [Shopify App](undefined/shopify-app.md)
+* [App Settings](undefined/app-settings.md)
 
 ## TEST MOBILE APP
 
